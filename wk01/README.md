@@ -1,3 +1,5 @@
+Lab Exercise 1: Tools of the Trade
+
 There are 7 labs during this course. For each student, the 5 best performing labs will contribute to your final lab mark.
 
 Objectives: 
